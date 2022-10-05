@@ -11,3 +11,4 @@ The file "9-firstdirdeletion" deletes the directory "my_first_directory" from th
 10. The file "10-back" changes the working directory to the previous one
 11.0 The file "11-lists" lists all files and the /boot directory
 12.0 The File "12-file_type" writes a script that prints the type of the file named iamafile.
+The file "13-symbolic_link" creates a symbolic link to /bin/ls, named ls
