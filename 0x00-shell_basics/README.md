@@ -8,3 +8,4 @@
 7.0 The file "7-movethatfile" runs a script that moves a file from /tmp/betty to /tmp/my_first_directory
 The file "8-firstdelete" deletes the file betty in the  /tmp/my_first_directory
 The file "9-firstdirdeletion" deletes the directory "my_first_directory" from the /tmp folder
+10. The file "10-back" changes the working directory to the previous one
