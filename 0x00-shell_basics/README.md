@@ -12,3 +12,4 @@ The file "9-firstdirdeletion" deletes the directory "my_first_directory" from th
 11.0 The file "11-lists" lists all files and the /boot directory
 12.0 The File "12-file_type" writes a script that prints the type of the file named iamafile.
 The file "13-symbolic_link" creates a symbolic link to /bin/ls, named ls
+14.0 The file "14-copy_html" creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
