@@ -10,3 +10,4 @@ The file "8-firstdelete" deletes the file betty in the  /tmp/my_first_directory
 The file "9-firstdirdeletion" deletes the directory "my_first_directory" from the /tmp folder
 10. The file "10-back" changes the working directory to the previous one
 11.0 The file "11-lists" lists all files and the /boot directory
+12.0 The File "12-file_type" writes a script that prints the type of the file named iamafile.
