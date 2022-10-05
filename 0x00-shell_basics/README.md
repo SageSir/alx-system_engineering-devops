@@ -3,3 +3,4 @@
 2.0 The file "2-bring_me_home" runs a script that changes the working directory to the user’s home directory
 3.0 The file "3-listfiles" runs a script that displays the current directoryt contents in long format
 4.0 The file "4-listmorefiles" runs a script that displays the cureent directory contents including hidden files(starting with .)
+5.0 The file "5-listfilesdigitonly" displays directory  contents in long format, with user and group IDs displayed numerically and hidden files (starting with.)
