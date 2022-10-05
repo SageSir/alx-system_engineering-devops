@@ -6,3 +6,4 @@
 5.0 The file "5-listfilesdigitonly" displays directory  contents in long format, with user and group IDs displayed numerically and hidden files (starting with.)
 6.0 The file "6-firstdirectory" runs a script that creates a directory named my_first_directory in the /tmp/ diectory
 7.0 The file "7-movethatfile" runs a script that moves a file from /tmp/betty to /tmp/my_first_directory
+The file "8-firstdelete" deletes the file betty in the  /tmp/my_first_directory
