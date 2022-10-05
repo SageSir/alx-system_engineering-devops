@@ -4,3 +4,4 @@
 3.0 The file "3-listfiles" runs a script that displays the current directoryt contents in long format
 4.0 The file "4-listmorefiles" runs a script that displays the cureent directory contents including hidden files(starting with .)
 5.0 The file "5-listfilesdigitonly" displays directory  contents in long format, with user and group IDs displayed numerically and hidden files (starting with.)
+6.0 The file "6-firstdirectory" runs a script that creates a directory named my_first_directory in the /tmp/ diectory
