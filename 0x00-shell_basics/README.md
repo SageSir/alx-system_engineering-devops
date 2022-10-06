@@ -16,3 +16,4 @@ The file "13-symbolic_link" creates a symbolic link to /bin/ls, named ls
 16.0 The file "101-clean_emacs" create a script that deletes all files in the current working directory that end with the character ~
 17.0 The file "102-tree" creates a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 18.0 The file "103-commas" lists all the files and directories of the current directory, separated by commas
+19.0 The file "school.mgc" creates a magic file "school.mgc" that can be used with the command "file" to detect "School" data files
