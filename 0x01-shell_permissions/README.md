@@ -6,3 +6,4 @@
 5.0 The file "5-execute" creates a script that adds execute permission to the owner of the file hello.
 6.0 The file "6-multiple_permissions" creates a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 7.0 The file "7-everybody" creates a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
+8.0 The file "8-James_Bond" creates a script that sets the permission to the file hello as follows: Owner - no permission at all, Group - no permission at all, other users: all the permissions.
